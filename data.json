@@ -1,0 +1,11 @@
+[
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "213123",
+        "lokasi": "Jakarta",
+        "golongan": "A",
+        "pemakaian": "15",
+        "tarif_pemakaian": 22500,
+        "total_tagihan": 31095
+    }
+]
